@@ -1,7 +1,7 @@
 # RedexJS
 Simplifique a tarefa de escrever expressões regulares
 
-# 📌 RegexScript: Lista de Métodos
+![logo redexJs](logo3_1_71510.png)
 
 ## 1️⃣ Estrutura Básica  
 Métodos fundamentais para criar regex.  
